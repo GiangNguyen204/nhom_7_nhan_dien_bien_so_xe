@@ -1,0 +1,4 @@
+train: /content/data/train/images  # Đường dẫn đến thư mục chứa ảnh huấn luyện
+val: /content/data/valid/images  # Đường dẫn đến thư mục chứa ảnh xác thực
+nc: 36  # Số lượng lớp (classes)
+names: ['class_1', 'class_2', 'class_3', ..., 'class_36']  # Tên các lớp (classes)
